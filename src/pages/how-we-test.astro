@@ -1,0 +1,439 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import siteConfig from '../../site.config';
+import { authors } from '../authors';
+
+const methodologySchema = {
+  '@context': 'https://schema.org',
+  '@type': 'WebPage',
+  name: 'How We Test — ' + siteConfig.siteName,
+  description: 'Our independent testing methodology for home security reviews.',
+  publisher: {
+    '@type': 'Organization',
+    name: siteConfig.siteName,
+  },
+};
+
+const teamSlugs = ['derek-lawson', 'amber-collins', 'frank-romano'];
+const teamMembers = teamSlugs.map(slug => authors[slug]).filter(Boolean);
+---
+
+<BaseLayout title="How We Test" description="Our independent testing methodology for home security reviews. Transparent criteria, real-world testing, no vendor influence." structuredData={methodologySchema}>
+  <div class="methodology-page">
+    <header class="methodology-hero">
+      <span class="hero-label">Our Methodology</span>
+      <h1>How We Test</h1>
+      <p class="hero-lede">We install every security system we review in our test home. We run simulated intrusion scenarios, test detection zones, measure response times, and evaluate monitoring center performance — all independently.</p>
+      <div class="hero-rule"></div>
+    </header>
+
+    <section class="scoring-criteria">
+      <h2>Scoring Criteria</h2>
+      <p class="section-intro">Every product receives a score from 0 to 10 based on weighted criteria. Here is exactly how we calculate it.</p>
+      <div class="criteria-grid">
+        
+      <div class="criterion">
+        <div class="criterion-header">
+          <h3>Detection & Response</h3>
+          <div class="criterion-weight">
+            <span class="weight-value">30%</span>
+            <div class="weight-bar"><div class="weight-fill" style="width: 30%"></div></div>
+          </div>
+        </div>
+        <p>We simulate break-in scenarios at doors, windows, and entry points. We measure sensor response time, alarm trigger speed, and monitoring center dispatch accuracy.</p>
+      </div>
+      <div class="criterion">
+        <div class="criterion-header">
+          <h3>Video & Audio Quality</h3>
+          <div class="criterion-weight">
+            <span class="weight-value">25%</span>
+            <div class="weight-bar"><div class="weight-fill" style="width: 25%"></div></div>
+          </div>
+        </div>
+        <p>We test camera resolution, night vision, field of view, and two-way audio in controlled lighting conditions. Motion detection accuracy and false alarm rates are measured over 30 days.</p>
+      </div>
+      <div class="criterion">
+        <div class="criterion-header">
+          <h3>Smart Integration</h3>
+          <div class="criterion-weight">
+            <span class="weight-value">25%</span>
+            <div class="weight-bar"><div class="weight-fill" style="width: 25%"></div></div>
+          </div>
+        </div>
+        <p>We test Alexa, Google Home, and Apple HomeKit integration. Automation reliability, app quality, and local vs cloud processing are evaluated.</p>
+      </div>
+      <div class="criterion">
+        <div class="criterion-header">
+          <h3>Value & Contracts</h3>
+          <div class="criterion-weight">
+            <span class="weight-value">20%</span>
+            <div class="weight-bar"><div class="weight-fill" style="width: 20%"></div></div>
+          </div>
+        </div>
+        <p>We compare equipment costs, monthly monitoring fees, contract terms, and cancellation penalties. DIY vs professional installation costs are documented.</p>
+      </div>
+      </div>
+    </section>
+
+    <section class="tools-section">
+      <h2>Tools &amp; Equipment</h2>
+      <p class="section-intro">The tools we use to produce consistent, reproducible results.</p>
+      <ul class="tools-list">
+        
+          <li>Purpose-built test home with 12 entry points</li>
+          <li>Simulated intrusion scenario kit</li>
+          <li>Lux meter for night vision testing</li>
+          <li>Decibel meter for siren testing</li>
+          <li>Network analyzer for latency and cloud dependency testing</li>
+      </ul>
+    </section>
+
+    <section class="independence-section">
+      <div class="independence-card">
+        <div class="independence-icon">
+          <svg width="24" height="24" viewBox="0 0 24 24" fill="none">
+            <path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+            <path d="M9 12l2 2 4-4" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+          </svg>
+        </div>
+        <div class="independence-content">
+          <h2>Independence Pledge</h2>
+          <ul>
+            <li><strong>No sponsored rankings.</strong> Our scores are never influenced by advertising or affiliate relationships.</li>
+            <li><strong>We buy everything ourselves.</strong> Products are purchased at retail price with our own funds. No vendor-supplied review units.</li>
+            <li><strong>Affiliate transparency.</strong> We earn commissions from some links. This funds our testing but never affects our scores. <a href="/disclosure">Full disclosure</a>.</li>
+            <li><strong>Corrections policy.</strong> If we get something wrong, we update the article with a visible correction notice and date.</li>
+          </ul>
+        </div>
+      </div>
+    </section>
+
+    <section class="update-section">
+      <h2>Update Cadence</h2>
+      <p>Reviews are updated with firmware changes. Full system re-tests occur every 6 months. Monitoring pricing is verified quarterly.</p>
+      <p>Every article shows its publish date and last update date. If a review is more than 6 months old without an update, we flag it as potentially outdated.</p>
+    </section>
+
+    <section class="team-section">
+      <h2>Our Testing Team</h2>
+      <p class="section-intro">The people behind the scores.</p>
+      <div class="team-grid">
+        {teamMembers.map(member => (
+          <div class="team-member">
+            <div class="member-avatar">
+              {member.image ? (
+                <img src={member.image} alt={member.name} width="48" height="48" class="avatar-img" loading="lazy" onerror="this.style.display='none';this.nextElementSibling.style.display='flex'" />
+                <span class="avatar-initials" style="display:none">{member.initials}</span>
+              ) : (
+                <span class="avatar-initials">{member.initials}</span>
+              )}
+            </div>
+            <div class="member-info">
+              <a href={`/author/${member.slug}`} class="member-name">{member.name}</a>
+              <span class="member-title">{member.title}</span>
+              <span class="member-creds">{member.credentials}</span>
+            </div>
+          </div>
+        ))}
+      </div>
+    </section>
+  </div>
+</BaseLayout>
+
+<style>
+  .methodology-page {
+    max-width: var(--max-width, 720px);
+    margin: 0 auto;
+  }
+
+  .methodology-hero {
+    margin-bottom: 3rem;
+    animation: fadeInUp var(--duration-slow, 0.4s) var(--ease-out, ease-out) both;
+  }
+
+  .hero-label {
+    display: inline-block;
+    font-size: 0.7rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    color: var(--electric, #6366f1);
+    margin-bottom: 0.75rem;
+  }
+
+  .methodology-hero h1 {
+    font-size: clamp(2rem, 5vw, 3rem);
+    line-height: 1.1;
+    margin-bottom: 1rem;
+  }
+
+  .hero-lede {
+    font-family: var(--font-display, serif);
+    font-size: 1.2rem;
+    font-style: italic;
+    line-height: 1.5;
+    color: var(--ink-500, #6b7280);
+    max-width: 600px;
+    margin-bottom: 1.5rem;
+  }
+
+  .hero-rule {
+    height: 2px;
+    background: var(--ink-950, #111);
+    width: 48px;
+  }
+
+  /* ── Sections ── */
+  section {
+    margin-bottom: 3rem;
+  }
+
+  section h2 {
+    font-size: 1.5rem;
+    margin-bottom: 0.5rem;
+  }
+
+  .section-intro {
+    color: var(--ink-500, #6b7280);
+    margin-bottom: 1.5rem;
+    font-size: 1rem;
+    line-height: 1.6;
+  }
+
+  /* ── Criteria ── */
+  .criteria-grid {
+    display: flex;
+    flex-direction: column;
+    gap: 1.5rem;
+  }
+
+  .criterion {
+    padding: 1.25rem 1.5rem;
+    border: 1px solid var(--ink-100, #e5e7eb);
+    border-radius: var(--border-radius-lg, 10px);
+    background: var(--surface, #fff);
+  }
+
+  .criterion-header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 0.75rem;
+  }
+
+  .criterion h3 {
+    font-size: 1.1rem;
+    margin: 0;
+  }
+
+  .criterion-weight {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    flex-shrink: 0;
+  }
+
+  .weight-value {
+    font-family: var(--font-display, serif);
+    font-size: 1.25rem;
+    font-weight: 700;
+    color: var(--ink-950, #111);
+    min-width: 2.5rem;
+    text-align: right;
+  }
+
+  .weight-bar {
+    width: 60px;
+    height: 6px;
+    background: var(--ink-100, #e5e7eb);
+    border-radius: 3px;
+    overflow: hidden;
+  }
+
+  .weight-fill {
+    height: 100%;
+    background: var(--ink-950, #111);
+    border-radius: 3px;
+    transition: width 0.6s ease-out;
+  }
+
+  .criterion p {
+    font-size: 0.95rem;
+    line-height: 1.7;
+    color: var(--ink-600, #4b5563);
+    margin: 0;
+  }
+
+  /* ── Tools ── */
+  .tools-list {
+    list-style: none;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+  }
+
+  .tools-list li {
+    display: flex;
+    align-items: flex-start;
+    gap: 0.75rem;
+    padding: 0.75rem 1rem;
+    background: var(--surface-raised, #f8f9fa);
+    border: 1px solid var(--ink-100, #e5e7eb);
+    border-radius: 8px;
+    font-size: 0.9rem;
+    line-height: 1.5;
+    color: var(--ink-700, #374151);
+  }
+
+  .tools-list li::before {
+    content: '';
+    width: 8px;
+    height: 8px;
+    border-radius: 50%;
+    background: var(--ink-950, #111);
+    flex-shrink: 0;
+    margin-top: 0.35rem;
+  }
+
+  /* ── Independence ── */
+  .independence-card {
+    display: flex;
+    gap: 1.25rem;
+    padding: 1.5rem;
+    border: 2px solid var(--ink-950, #111);
+    border-radius: var(--border-radius-lg, 10px);
+    background: var(--surface, #fff);
+  }
+
+  .independence-icon {
+    flex-shrink: 0;
+    color: var(--ink-950, #111);
+    margin-top: 0.25rem;
+  }
+
+  .independence-content h2 {
+    font-size: 1.25rem;
+    margin-bottom: 1rem;
+  }
+
+  .independence-content ul {
+    list-style: none;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    gap: 0.75rem;
+  }
+
+  .independence-content li {
+    font-size: 0.95rem;
+    line-height: 1.6;
+    color: var(--ink-700, #374151);
+  }
+
+  .independence-content a {
+    color: var(--ink-950, #111);
+    text-decoration: underline;
+    text-underline-offset: 2px;
+  }
+
+  /* ── Update ── */
+  .update-section p {
+    font-size: 1rem;
+    line-height: 1.7;
+    color: var(--ink-700, #374151);
+    margin-bottom: 0.75rem;
+  }
+
+  /* ── Team ── */
+  .team-grid {
+    display: grid;
+    gap: 1rem;
+  }
+
+  .team-member {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    padding: 1rem 1.25rem;
+    border: 1px solid var(--ink-100, #e5e7eb);
+    border-radius: var(--border-radius-lg, 10px);
+    background: var(--surface, #fff);
+    transition: border-color 0.15s ease-out;
+  }
+
+  .team-member:hover {
+    border-color: var(--ink-300, #d1d5db);
+  }
+
+  .member-avatar {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 48px;
+    height: 48px;
+    border-radius: 50%;
+    background: var(--ink-950, #111);
+    color: white;
+    font-weight: 700;
+    font-size: 0.85rem;
+    letter-spacing: 0.04em;
+    flex-shrink: 0;
+    overflow: hidden;
+  }
+
+  .member-avatar .avatar-img {
+    width: 48px;
+    height: 48px;
+    border-radius: 50%;
+    object-fit: cover;
+  }
+
+  .member-avatar .avatar-initials {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    height: 100%;
+  }
+
+  .member-info {
+    display: flex;
+    flex-direction: column;
+    gap: 0.1rem;
+  }
+
+  .member-name {
+    font-weight: 600;
+    font-size: 0.95rem;
+    color: var(--ink-950, #111);
+    text-decoration: none;
+  }
+
+  .member-name:hover {
+    text-decoration: underline;
+    text-underline-offset: 2px;
+  }
+
+  .member-title {
+    font-size: 0.8rem;
+    color: var(--ink-500, #6b7280);
+  }
+
+  .member-creds {
+    font-size: 0.75rem;
+    color: var(--ink-400, #9ca3af);
+    font-style: italic;
+  }
+
+  @media (max-width: 640px) {
+    .independence-card {
+      flex-direction: column;
+    }
+    .criterion-header {
+      flex-direction: column;
+      align-items: flex-start;
+      gap: 0.5rem;
+    }
+  }
+</style>

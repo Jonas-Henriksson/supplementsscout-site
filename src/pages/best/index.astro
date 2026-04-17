@@ -1,0 +1,135 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import siteConfig from '../../../site.config';
+
+const pageTitle = `Best Home Security Guides 2026 — ${siteConfig.siteName}`;
+const pageDesc = `Browse all "best for" guides on ${siteConfig.siteName}. Find the perfect home security for your specific needs.`;
+---
+
+<BaseLayout title={pageTitle} description={pageDesc}>
+  <div class="best-index">
+    <nav class="breadcrumb" aria-label="Breadcrumb">
+      <a href="/">Home</a>
+      <span class="sep">/</span>
+      <span class="current">Best-For Guides</span>
+    </nav>
+
+    <header class="page-header">
+      <span class="page-label">13 guides</span>
+      <h1>Best Home Security Guides</h1>
+      <p class="page-subtitle">Find the perfect home security for your specific needs. Each guide is curated from our expert-tested reviews.</p>
+      <div class="header-rule"></div>
+    </header>
+
+    <div class="best-grid">
+      <a href="/best/home-security-for-apartments" class="best-link"><span class="best-label">Best Home Security for</span><span class="best-uc">Apartments</span></a>
+        <a href="/best/home-security-for-homeowners" class="best-link"><span class="best-label">Best Home Security for</span><span class="best-uc">Homeowners</span></a>
+        <a href="/best/home-security-for-renters" class="best-link"><span class="best-label">Best Home Security for</span><span class="best-uc">Renters</span></a>
+        <a href="/best/home-security-for-diy-installation" class="best-link"><span class="best-label">Best Home Security for</span><span class="best-uc">Diy Installation</span></a>
+        <a href="/best/home-security-for-professional-monitoring" class="best-link"><span class="best-label">Best Home Security for</span><span class="best-uc">Professional Monitoring</span></a>
+        <a href="/best/home-security-for-budget" class="best-link"><span class="best-label">Best Home Security for</span><span class="best-uc">Budget</span></a>
+        <a href="/best/home-security-for-outdoor" class="best-link"><span class="best-label">Best Home Security for</span><span class="best-uc">Outdoor</span></a>
+        <a href="/best/home-security-for-indoor" class="best-link"><span class="best-label">Best Home Security for</span><span class="best-uc">Indoor</span></a>
+        <a href="/best/home-security-for-smart-home-integration" class="best-link"><span class="best-label">Best Home Security for</span><span class="best-uc">Smart Home Integration</span></a>
+        <a href="/best/home-security-for-families" class="best-link"><span class="best-label">Best Home Security for</span><span class="best-uc">Families</span></a>
+        <a href="/best/home-security-for-pet-owners" class="best-link"><span class="best-label">Best Home Security for</span><span class="best-uc">Pet Owners</span></a>
+        <a href="/best/home-security-for-night-vision" class="best-link"><span class="best-label">Best Home Security for</span><span class="best-uc">Night Vision</span></a>
+        <a href="/best/home-security-for-wireless" class="best-link"><span class="best-label">Best Home Security for</span><span class="best-uc">Wireless</span></a>
+    </div>
+  </div>
+</BaseLayout>
+
+<style>
+  .best-index {
+    max-width: var(--max-width-wide);
+    margin: 0 auto;
+  }
+
+  .breadcrumb {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    font-size: 0.8rem;
+    color: var(--ink-400);
+    margin-bottom: var(--space-xl);
+  }
+
+  .breadcrumb a { color: var(--ink-500); text-decoration: none; }
+  .breadcrumb a:hover { color: var(--ink-950); }
+  .sep { color: var(--ink-300); }
+  .current { color: var(--ink-400); }
+
+  .page-header { margin-bottom: var(--space-2xl); }
+
+  .page-label {
+    font-size: 0.75rem;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    color: var(--ink-400);
+  }
+
+  .page-header h1 {
+    margin-top: var(--space-sm);
+    margin-bottom: var(--space-sm);
+  }
+
+  .page-subtitle {
+    font-size: 1rem;
+    color: var(--ink-500);
+    margin-bottom: var(--space-md);
+  }
+
+  .header-rule {
+    height: 2px;
+    width: 48px;
+    background: var(--surface-inverse);
+  }
+
+  .best-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+    gap: var(--space-md);
+  }
+
+  .best-link {
+    display: flex;
+    flex-direction: column;
+    padding: var(--space-lg);
+    border: 1px solid var(--ink-100);
+    border-radius: var(--border-radius-lg);
+    text-decoration: none;
+    transition: all var(--duration-normal) var(--ease-out);
+    background: var(--surface);
+  }
+
+  .best-link:hover {
+    border-color: var(--ink-300);
+    box-shadow: var(--shadow-md);
+    transform: translateY(-2px);
+  }
+
+  .best-label {
+    font-size: 0.7rem;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    color: var(--ink-400);
+  }
+
+  .best-uc {
+    font-family: var(--font-display);
+    font-size: 1.25rem;
+    color: var(--ink-950);
+    margin-top: 0.25rem;
+    letter-spacing: -0.02em;
+  }
+
+  .best-link:hover .best-uc {
+    color: var(--electric);
+  }
+
+  @media (max-width: 768px) {
+    .best-grid { grid-template-columns: 1fr; }
+  }
+</style>

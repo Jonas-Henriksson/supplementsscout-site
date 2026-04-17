@@ -1,0 +1,159 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import { siteConfig } from '../../site.config';
+
+const pageTitle = 'Editorial Updates & Changelog — ' + siteConfig.siteName;
+const pageDesc = 'A transparent log of every content update, new review, and editorial change on ' + siteConfig.siteName + '. See how we keep our supplements products reviews current.';
+---
+
+<BaseLayout title={pageTitle} description={pageDesc}>
+  <article class="updates-page">
+    <nav class="breadcrumb" aria-label="Breadcrumb">
+      <a href="/">Home</a>
+      <span class="sep">/</span>
+      <span class="current">Editorial Updates</span>
+    </nav>
+
+    <header class="page-header">
+      <span class="page-label">Changelog</span>
+      <h1>Editorial Updates & Changelog</h1>
+      <div class="header-rule"></div>
+      <p class="page-intro">Transparency matters. This page logs every significant content update, new review, and editorial change on {siteConfig.siteName}. We maintain this changelog so readers can verify that our supplements products reviews reflect the latest products, pricing, and test data — not stale information from months ago.</p>
+    </header>
+
+    <div class="updates-list">
+      <div class="update-entry">
+        <time class="update-date">April 10, 2026</time>
+        <div class="update-content">
+          <h3>Updated video quality and night vision scores for supplement products</h3>
+          <p>Re-tested image clarity, dynamic range, and night vision performance for Ring, Arlo, Wyze, and Reolink cameras after firmware updates.</p>
+        </div>
+      </div>
+      <div class="update-entry">
+        <time class="update-date">April 5, 2026</time>
+        <div class="update-content">
+          <h3>Added 4 new supplement brands reviews</h3>
+          <p>Published hands-on reviews for August WiFi Smart Lock 4th Gen, Yale Assure Lock 2, Schlage Encode Plus, and Level Lock+. Each tested for 30+ days.</p>
+        </div>
+      </div>
+      <div class="update-entry">
+        <time class="update-date">April 1, 2026</time>
+        <div class="update-content">
+          <h3>Updated pricing and monitoring plan costs across all reviews</h3>
+          <p>Refreshed equipment costs, monthly monitoring fees, and contract terms for all reviewed security systems following Q2 pricing changes.</p>
+        </div>
+      </div>
+      <div class="update-entry">
+        <time class="update-date">March 26, 2026</time>
+        <div class="update-content">
+          <h3>Published nutrition products comparison guide</h3>
+          <p>New guide comparing 8 nutrition products on video quality, response time, smart detection accuracy, and integration with existing security systems.</p>
+        </div>
+      </div>
+      <div class="update-entry">
+        <time class="update-date">March 20, 2026</time>
+        <div class="update-content">
+          <h3>Added smart detection accuracy testing</h3>
+          <p>Expanded camera reviews with standardized person, vehicle, and package detection accuracy tests. Updated false positive rates for all reviewed cameras.</p>
+        </div>
+      </div>
+      <div class="update-entry">
+        <time class="update-date">March 14, 2026</time>
+        <div class="update-content">
+          <h3>Updated DIY vs professional supplement categories comparison</h3>
+          <p>Re-evaluated SimpliSafe, Ring Alarm, Abode, and ADT on installation ease, monitoring options, component quality, and total cost of ownership.</p>
+        </div>
+      </div>
+      <div class="update-entry">
+        <time class="update-date">March 8, 2026</time>
+        <div class="update-content">
+          <h3>Launched SupplementScout with initial review coverage</h3>
+          <p>Published our first 18 in-depth reviews covering supplement products, nutrition products, supplement brands, and supplement categories.</p>
+        </div>
+      </div>
+      <div class="update-entry">
+        <time class="update-date">March 4, 2026</time>
+        <div class="update-content">
+          <h3>Completed hands-on testing of top 10 supplement products systems</h3>
+          <p>Finished our initial 30-day testing cycle for each camera system, evaluating video quality, app experience, detection accuracy, and storage options.</p>
+        </div>
+      </div>
+      <div class="update-entry">
+        <time class="update-date">February 27, 2026</time>
+        <div class="update-content">
+          <h3>Established supplements testing methodology</h3>
+          <p>Created our standardized evaluation framework covering video quality, detection accuracy, app usability, installation, and value for money.</p>
+        </div>
+      </div>
+      <div class="update-entry">
+        <time class="update-date">February 22, 2026</time>
+        <div class="update-content">
+          <h3>Set up indoor and outdoor testing environments</h3>
+          <p>Installed standardized test zones with controlled lighting conditions for consistent camera and sensor evaluation day and night.</p>
+        </div>
+      </div>
+    </div>
+
+    <section class="commitment">
+      <h2>Our Editorial Commitment</h2>
+      <p>We review and update our content on a regular cycle. Product reviews are re-tested quarterly or whenever a manufacturer releases a significant update. Pricing is verified monthly. If you spot outdated information in any review, <a href="/about">contact our editorial team</a> and we will prioritize a correction.</p>
+    </section>
+  </article>
+</BaseLayout>
+
+<style>
+  .updates-page { max-width: var(--max-width); margin: 0 auto; }
+
+  .breadcrumb {
+    display: flex; align-items: center; gap: 0.5rem;
+    font-size: 0.8rem; color: var(--ink-400); margin-bottom: var(--space-xl);
+  }
+  .breadcrumb a { color: var(--ink-500); text-decoration: none; }
+  .breadcrumb a:hover { color: var(--ink-950); }
+  .sep { color: var(--ink-300); }
+  .current { color: var(--ink-400); }
+
+  .page-header { margin-bottom: var(--space-2xl); animation: fadeInUp var(--duration-slow) var(--ease-out) both; }
+  .page-label { font-size: 0.75rem; font-weight: 600; text-transform: uppercase; letter-spacing: 0.08em; color: var(--ink-400); }
+  .page-header h1 { margin-top: var(--space-sm); margin-bottom: var(--space-md); }
+  .header-rule { height: 2px; width: 48px; background: var(--surface-inverse); margin-bottom: var(--space-lg); }
+  .page-intro { color: var(--ink-600); line-height: 1.75; max-width: 680px; }
+
+  .updates-list {
+    display: flex; flex-direction: column; gap: 0;
+    border-top: 1px solid var(--ink-100);
+  }
+
+  .update-entry {
+    display: grid; grid-template-columns: 160px 1fr; gap: var(--space-lg);
+    padding: var(--space-lg) 0;
+    border-bottom: 1px solid var(--ink-100);
+    transition: background 0.15s ease-out;
+  }
+  .update-entry:hover { background: var(--ink-50, #fafafa); margin: 0 calc(-1 * var(--space-md)); padding-left: var(--space-md); padding-right: var(--space-md); border-radius: 6px; }
+
+  .update-date {
+    font-size: 0.8rem; font-weight: 600; color: var(--ink-400);
+    padding-top: 0.15rem; white-space: nowrap;
+  }
+
+  .update-content h3 {
+    font-size: 1rem; font-weight: 600; color: var(--ink-950);
+    margin: 0 0 0.35rem 0; line-height: 1.4;
+  }
+  .update-content p {
+    font-size: 0.9rem; color: var(--ink-600); line-height: 1.65; margin: 0;
+  }
+
+  .commitment {
+    margin-top: var(--space-3xl); padding-top: var(--space-xl);
+    border-top: 1px solid var(--ink-100);
+  }
+  .commitment h2 { margin-bottom: var(--space-md); }
+  .commitment p { color: var(--ink-600); line-height: 1.75; }
+  .commitment a { color: var(--ink-950); font-weight: 500; text-decoration: underline; text-underline-offset: 3px; }
+
+  @media (max-width: 640px) {
+    .update-entry { grid-template-columns: 1fr; gap: var(--space-xs); }
+  }
+</style>

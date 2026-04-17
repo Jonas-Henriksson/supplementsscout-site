@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+Disallow: /admin
+Disallow: /go/
+Disallow: /cdn-cgi/
+
+Sitemap: https://supplementsscout.net/sitemap-index.xml

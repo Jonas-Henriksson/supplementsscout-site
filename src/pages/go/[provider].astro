@@ -1,0 +1,64 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+
+export function getStaticPaths() {
+  const providers = [
+    { provider: 'amazon', name: 'Amazon', url: 'https://www.amazon.com/?tag=supplementsscout-20' },
+    { provider: 'transparent-labs', name: 'Transparent Labs', url: 'https://www.transparentlabs.com' },
+    { provider: 'bulk-supplements', name: 'BulkSupplements', url: 'https://www.bulksupplements.com' },
+    { provider: 'legion', name: 'Legion Athletics', url: 'https://www.legionathletics.com' },
+    { provider: 'iherb', name: 'iHerb', url: 'https://www.iherb.com' },
+    { provider: 'examine', name: 'Examine.com', url: 'https://examine.com' },
+    { provider: 'momentous', name: 'Momentous', url: 'https://www.livemomentous.com' },
+    { provider: 'mind-lab-pro', name: 'Mind Lab Pro', url: 'https://www.mindlabpro.com' },
+    { provider: 'optimum-nutrition', name: 'Optimum Nutrition', url: 'https://www.optimumnutrition.com' },
+    { provider: 'thorne', name: 'Thorne', url: 'https://www.thorne.com' },
+    { provider: 'garden-of-life', name: 'Garden of Life', url: 'https://www.gardenoflife.com' },
+    { provider: 'nordic-naturals', name: 'Nordic Naturals', url: 'https://www.nordicnaturals.com' },
+    { provider: 'now-foods', name: 'NOW Foods', url: 'https://www.nowfoods.com' },
+    { provider: 'jarrow', name: 'Jarrow Formulas', url: 'https://www.jarrow.com' },
+  ];
+  return providers.map((p) => ({
+    params: { provider: p.provider },
+    props: { name: p.name, url: p.url },
+  }));
+}
+
+const { name, url } = Astro.props;
+---
+
+<BaseLayout title={`Visit ${name}`} description={`Redirecting to ${name} - recommended by SupplementScout`}>
+  <div class="redirect-page">
+    <h1>Redirecting to {name}...</h1>
+    <p>You're being redirected to {name}. If you're not redirected automatically, <a href={url} rel="nofollow sponsored">click here</a>.</p>
+    <p class="disclosure">SupplementScout may earn a commission if you purchase through this link. This doesn't affect our reviews or recommendations.</p>
+  </div>
+</BaseLayout>
+
+<script define:vars={{ url }}>
+  setTimeout(() => { window.location.href = url; }, 1500);
+</script>
+
+<style>
+  .redirect-page {
+    text-align: center;
+    padding: 6rem 1rem;
+  }
+
+  .redirect-page h1 {
+    font-size: 1.5rem;
+    color: #ffffff;
+    margin-bottom: 1rem;
+  }
+
+  .redirect-page p {
+    color: #a8b3bf;
+    margin-bottom: 1rem;
+  }
+
+  .disclosure {
+    font-size: 0.85rem;
+    color: #6b7280;
+    margin-top: 2rem;
+  }
+</style>
