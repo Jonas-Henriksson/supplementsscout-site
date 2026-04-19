@@ -115,6 +115,12 @@ const navLinks = [
               {siteConfig.social.twitter && <a href={siteConfig.social.twitter} target="_blank" rel="noopener">Twitter/X</a>}
               <a href="/contact">Contact</a>
             </div>
+            <div class="footer-col">
+              <h4>Legal</h4>
+              <a href="/privacy">Privacy Policy</a>
+              <a href="/terms">Terms of Service</a>
+              <a href="/disclosure">Affiliate Disclosure</a>
+            </div>
           </div>
         </div>
         <div class="footer-bottom">
@@ -180,7 +186,7 @@ const navLinks = [
   .footer-inner { max-width: var(--max-width-wide); margin: 0 auto; padding: var(--space-3xl) var(--space-lg) var(--space-xl); }
   .footer-top { display: grid; grid-template-columns: 1fr 2fr; gap: var(--space-3xl); padding-bottom: var(--space-2xl); border-bottom: 1px solid var(--ink-200); }
   .footer-tagline { margin-top: var(--space-sm); font-size: 0.875rem; color: var(--ink-500); line-height: 1.5; margin-bottom: 0; }
-  .footer-links-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: var(--space-xl); }
+  .footer-links-grid { display: grid; grid-template-columns: repeat(4, 1fr); gap: var(--space-xl); }
   .footer-col { display: flex; flex-direction: column; gap: var(--space-sm); }
   .footer-col h4 { font-family: var(--font-body); font-weight: 600; font-size: 0.75rem; text-transform: uppercase; letter-spacing: 0.08em; color: var(--ink-400); margin-bottom: var(--space-xs); }
   .footer-col a { font-size: 0.875rem; color: var(--ink-600); text-decoration: none; transition: color var(--duration-fast) var(--ease-out); }
@@ -197,7 +203,7 @@ const navLinks = [
     .nav-links { display: none; }
     .nav-toggle { display: flex; }
     .footer-top { grid-template-columns: 1fr; gap: var(--space-xl); }
-    .footer-links-grid { grid-template-columns: repeat(3, 1fr); gap: var(--space-md); }
+    .footer-links-grid { grid-template-columns: repeat(2, 1fr); gap: var(--space-md); }
     .footer-bottom { flex-direction: column; gap: var(--space-sm); }
     .footer-disclosure { text-align: left; }
   }
