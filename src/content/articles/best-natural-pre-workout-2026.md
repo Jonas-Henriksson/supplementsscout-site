@@ -424,3 +424,14 @@ No. Creatine's timing relative to exercise is largely irrelevant — it works th
 ### What's the minimum effective dose of citrulline for a pump?
 
 **6–8g L-citrulline or 8–10g citrulline malate** is the threshold studied for meaningful vasodilation and performance improvements [Study: Pérez-Guisado & Jakeman, 2010]. Products dosed below 4g citrulline — like Onnit Alpha Brain at 2.4g — will produce a noticeable but distinctly weaker pump effect. If pump and endurance are your primary goals from a pre-workout, this dose threshold should be your first filter when evaluating any product.
+
+## Recommended Supplements & Resources
+
+If you're building out a complete training stack beyond pre-workout, these are worth looking at:
+
+- [Legion Athletics](/go/legion) — our top-ranked natural pre-workout; clinical-dose formulas with full label transparency
+- [Transparent Labs](/go/transparent-labs) — runner-up; excellent citrulline dosing and no artificial additives
+- [BIOptimizers](/go/bioptimizers) — recovery-focused stack (Magnesium Breakthrough for sleep quality, Masszymes for protein digestion); pairs well with any high-protein training diet
+- [iHerb](/go/iherb) — broad selection for standalone beta-alanine, creatine, and ashwagandha if you want to build a custom stack
+
+*Some of these links may earn us a commission if you sign up or make a purchase. This doesn't affect our reviews or recommendations — see our [disclosure](/disclosure) for details.*
