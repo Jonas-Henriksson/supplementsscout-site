@@ -1,18 +1,1 @@
-/sitemap.xml /sitemap-index.xml 301
-
-/go/amazon https://www.amazon.com/?tag=supplementsscout-20 301
-/go/transparent-labs https://www.transparentlabs.com 301
-/go/bulk-supplements https://www.bulksupplements.com 301
-/go/legion https://www.legionathletics.com 301
-/go/iherb https://www.iherb.com 301
-/go/examine https://examine.com 301
-/go/momentous https://www.livemomentous.com 301
-/go/mind-lab-pro https://www.mindlabpro.com 301
-/go/optimum-nutrition https://www.optimumnutrition.com 301
-/go/thorne https://www.thorne.com 301
-/go/garden-of-life https://www.gardenoflife.com 301
-/go/nordic-naturals https://www.nordicnaturals.com 301
-/go/now-foods https://www.nowfoods.com 301
-/go/jarrow https://www.jarrow.com 301
-/go/bioptimizers https://www.kqzyfj.com/click-101729567-17248862-1771539372000 301
-/go/ecosupplements https://www.tkqlhce.com/click-101729567-17173845-1765305845000 301
+https://www.supplementsscout.net/* https://supplementsscout.net/:splat 301
