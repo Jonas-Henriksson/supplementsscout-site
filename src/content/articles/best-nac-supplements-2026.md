@@ -1,6 +1,7 @@
 ---
 title: "Best NAC Supplements 2026: Benefits, Dose, and Top Brands Ranked"
 description: "Compare 8 NAC supplements by dose, price-per-serving, and third-party testing. Evidence-based rankings and dosing guide for 2026."
+image: "/images/articles/best-nac-supplements-2026/hero.png"
 date: 2026-04-23
 updated: 2026-04-23
 category: vitamins-minerals
@@ -55,6 +56,8 @@ What follows is an evidence-grounded comparison of eight products across the ful
 
 ## Quick Verdict
 
+![Quick Verdict](/images/articles/best-nac-supplements-2026/section-1.png)
+
 | Award | Product | Key Reason |
 |---|---|---|
 | **Overall Best** | Wholesome Story NAC | 600mg dose, Clean Label Project certified, two-ingredient formula, $0.19/serving on sub |
@@ -66,6 +69,8 @@ What follows is an evidence-grounded comparison of eight products across the ful
 ---
 
 ## What the Science Actually Says
+
+![What the Science Actually Says](/images/articles/best-nac-supplements-2026/section-2.png)
 
 NAC works as a cysteine donor. Cysteine is the rate-limiting substrate for glutathione synthesis — your primary endogenous antioxidant. When you supplement with NAC, you raise plasma cysteine availability, which increases intracellular glutathione production in the liver, lungs, and elsewhere. This mechanism is not in dispute.
 
