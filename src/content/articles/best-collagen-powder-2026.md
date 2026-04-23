@@ -345,6 +345,20 @@ Loading protocols are not established for collagen. Unlike creatine, there's no 
 
 ---
 
+## Buying Advice: What Actually Matters
+
+**Certification should be your first filter, not dose or price.** If you're a drug-tested athlete, you have a short list: Momentous, Sports Research (Informed Sport), and Thorne (NSF Certified for Sport). Everything else is out before you open a browser tab. If you're not drug-tested, you're choosing whether the contamination-risk premium is worth paying — for most people, it is.
+
+**Dose to your goal, not to the label.** Skin and hair research supports **2.5–5g/day** [Study: Proksch et al., 2014]. Joint and tendon recovery requires **10–15g/day** [Study: Shaw et al., 2017]. A product with a 10g serving that you're taking for joint outcomes is sub-therapeutic — you'll need to double-scoop, which changes the economics entirely. The Price-Per-Serving Breakdown table above shows the real cost at a 15g therapeutic dose, which is where you should look first if joints are the goal.
+
+**Products without built-in vitamin C require an extra step.** Vital Proteins and BulkSupplements both require you to source and remember a separate 50–100mg vitamin C dose at the same time. That's manageable, but if adherence is a concern for you, a co-formulated product removes one friction point from a protocol that requires months of consistency to pay off.
+
+**Unflavored is the right format for a daily supplement.** Flavored collagens cost more per gram of active ingredient — the flavoring, sweetening agents, and flow agents displace collagen per scoop. Unflavored also works in hot coffee, smoothies, and savory foods without flavor conflict. After several weeks of daily use, a sweetened collagen drink becomes its own adherence problem for many people.
+
+**Verify your specific lot, not just the brand.** NSF Certified for Sport and Informed Sport certifications are batch-level. You can verify your actual bottle's lot number at the NSF Consumer Database (nsf.org) or the Informed Sport certification checker. If a brand claims certification but the lot number doesn't appear, that batch may not be covered — this matters most when you're buying discount inventory or older stock.
+
+---
+
 ## What I Rejected and Why
 
 **Great Lakes Gelatin Collagen Hydrolysate** has been a fixture in older collagen reviews, but the brand has not pursued any third-party certification and provides limited sourcing transparency. The product itself appears functional, but when Informed Sport-certified options exist at comparable price points, there's no compelling reason to choose an uncertified one.
