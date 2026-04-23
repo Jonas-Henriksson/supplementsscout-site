@@ -1,6 +1,7 @@
 ---
 title: "Best Collagen Powder 2026: Unflavored, Mixable, Third-Party Tested"
 description: "Compare the best collagen powders of 2026 — NSF and Informed Sport certified, correctly dosed at 10–15g, and independently tested for heavy metals."
+image: "/images/articles/best-collagen-powder-2026/hero.png"
 date: 2026-04-23
 updated: 2026-04-23
 category: collagen
@@ -59,6 +60,8 @@ This review covers six collagen powders evaluated over 12 weeks, focusing on unf
 
 ## Quick Verdict
 
+![Quick Verdict](/images/articles/best-collagen-powder-2026/section-1.png)
+
 | Award | Product | Key Reason |
 |-------|---------|-----------|
 | **Overall Best** | Momentous Collagen Peptides | 15g studied dose + Informed Sport batch certification at $1.50/serving |
@@ -70,6 +73,8 @@ This review covers six collagen powders evaluated over 12 weeks, focusing on unf
 ---
 
 ## What the Science Actually Says
+
+![What the Science Actually Says](/images/articles/best-collagen-powder-2026/section-2.png)
 
 Collagen supplements work — under specific conditions. The mechanism isn't simple absorption of collagen into tissues. Hydrolyzed collagen peptides (broken down to approximately 3–5 kDa molecular weight) are absorbed in the small intestine and function as signaling molecules that stimulate fibroblast production of endogenous collagen. It's closer to a pharmacological effect than straightforward nutritional replacement.
 
