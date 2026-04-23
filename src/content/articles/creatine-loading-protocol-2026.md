@@ -22,6 +22,9 @@ affiliateLinks:
     - product: "Optimum Nutrition Micronized Creatine"
       asin: "B002DYIZEO"
       link: "https://www.amazon.com/dp/B002DYIZEO?tag=supplementsscout-20"
+    - product: "Transparent Labs Creatine HMB"
+      asin: "B08TLPWJVJ"
+      link: "https://www.amazon.com/dp/B08TLPWJVJ?tag=supplementsscout-20"
     - product: "Jarrow Formulas Creatine Monohydrate"
       asin: "B00J074W94"
       link: "https://www.amazon.com/dp/B00J074W94?tag=supplementsscout-20"
@@ -205,7 +208,7 @@ The problem is dosing. The clinically studied HMB dose is **3g/day**. At 1.5g pe
 
 **Price:** $1.33/serving at one serving; $2.66/serving to hit the studied HMB dose. The 375g container provides 30 single servings.
 
-[Buy from Transparent Labs](https://supplementsscout.net/go/transparent-labs)
+[Check price on Amazon](https://www.amazon.com/dp/B08TLPWJVJ?tag=supplementsscout-20) | [Buy from Transparent Labs](https://supplementsscout.net/go/transparent-labs)
 
 **Pros:**
 - Full 5g creatine dose matched to the evidence
