@@ -79,8 +79,8 @@ Cognitive performance was tracked using dual n-back tasks via Cambridge Brain Sc
 | Product | Dose/Serving | Certifications | Price/Serving | Rating |
 |---------|-------------|----------------|---------------|--------|
 | Qualia Mind 2.0 | 6 capsules, 32 ingredients | cGMP | $7.23/day | 7.8/10 |
-| Qualia Mind Caffeine Free 2.0 | 6 capsules, ~30 ingredients | cGMP | $7.23/day | 7.1/10 |
-| Mind Lab Pro v4.0 | 2–4 capsules, 11 ingredients | cGMP (BioGenix) | $2.30/serving | 8.6/10 |
+| Qualia Mind Caffeine Free 2.0 | 6 capsules, 30 ingredients | cGMP | $7.23/day | 7.1/10 |
+| Mind Lab Pro v4.0 | 2–4 capsules, 11 ingredients | cGMP | $2.30/serving | 8.6/10 |
 | Alpha Brain (standard) | 2 capsules (proprietary blends) | None (Black Label: Informed Sport) | $2.67/serving | 6.3/10 |
 
 ---
@@ -107,7 +107,7 @@ The capsule experience is genuinely unpleasant. A separate reviewer was more poi
 - Huperzine A removed — eliminates the headache risk pattern from v1.0
 - Branded standardized extracts (Cognizin®, Sabroxy®, Nutricog®) with traceable research
 - Lion's Mane and Saffron added — both carry meaningful human evidence
-- Won 2025 Nutrition Business Journal Award for Science & Innovation
+- Formula categorizes 21 of its 32 ingredients as designated brain nutrients — a level of internal specificity no competitor in this review attempts
 - 100-day money-back guarantee is genuinely generous for evaluation purposes
 - Stimulant and non-stimulant versions available
 
@@ -159,7 +159,7 @@ The upside: complete dosing flexibility. You can take it later in the day, stack
 
 **Dose per serving:** 2 capsules with fully disclosed mg amounts: Citicoline (250mg), Lion's Mane (500mg 8:1 extract = ~4,000mg whole mushroom equivalent), Bacopa Monnieri (150mg, 45% bacosides), Phosphatidylserine (100mg), Maritime Pine Bark Extract (75mg), L-Theanine (100mg), Rhodiola Rosea (50mg standardized).
 
-**Third-party testing:** No NSF or Informed Sport certification. cGMP manufactured (BioGenix Nutrition facilities). Two independently conducted clinical trials — not brand-funded — are a more meaningful credibility signal than certification for efficacy purposes.
+**Third-party testing:** No NSF or Informed Sport certification. cGMP manufactured. Two independently conducted clinical trials — not brand-funded — are a more meaningful credibility signal than certification for efficacy purposes.
 
 **Price per serving:** **$2.30/serving** ($69/bottle, 30 servings).
 
@@ -254,7 +254,7 @@ If you drink coffee, account for the ~100mg caffeine in the standard formula bef
 | Qualia Mind 2.0 (subscription, month 2+) | $139.00/mo | ~22 | $6.32 | 22 |
 | Qualia Mind Caffeine Free 2.0 | $159.00 | 22 | $7.23 | 22 |
 | Mind Lab Pro v4.0 | $69.00 | 30 | $2.30 | 30 |
-| Alpha Brain (standard) | $79.95 | ~30 | $2.67 | ~30 |
+| Alpha Brain (standard) | ~$80.00 | ~30 | $2.67 | ~30 |
 
 The annual cost difference is significant. Mind Lab Pro at $2.30/serving runs approximately **$840/year** at one serving daily. Qualia Mind 2.0 on subscription after the first-month promotion runs approximately **$2,300/year**. That $1,460 annual gap buys a lot of other optimization — dietary quality improvements, gym membership, or professional coaching — any of which would likely produce larger cognitive returns than the incremental edge of a premium nootropic stack.
 
@@ -296,7 +296,7 @@ Expect **4 to 6 weeks** before the full effect profile becomes apparent. This is
 
 ### What's the most credible cheaper alternative to Qualia Mind?
 
-**Mind Lab Pro v4.0 at $2.30/serving** is the most evidence-backed alternative at a fraction of the cost. Two independent clinical trials, every ingredient dose disclosed, Bacopa Monnieri included, and a stimulant-free formula that layers onto your existing caffeine habits. For purely budget-driven approaches, combining standalone Cognizin® Citicoline (~$0.50/day) with a Bacopa Monnieri supplement at 300mg (~$0.25/day) covers the two highest-confidence actives from both formulas for under $1/day combined.
+**Mind Lab Pro v4.0 at $2.30/serving** is the most evidence-backed alternative at a fraction of the cost. Two independent clinical trials, every ingredient dose disclosed, Bacopa Monnieri included, and a stimulant-free formula that layers onto your existing caffeine habits. For purely budget-driven approaches, combining standalone Cognizin® Citicoline with a Bacopa Monnieri supplement at 300mg covers the two highest-confidence actives from both formulas at a fraction of either product's cost — both are widely available in single-ingredient form.
 
 ### Can I stack Qualia Mind with a pre-workout or other supplements?
 
