@@ -1,6 +1,7 @@
 ---
 title: "Best Natural Pre-Workout 2026: No Artificial Sweeteners, Colors, or Flavors"
 description: "Ranked: 6 natural pre-workouts with no artificial sweeteners, colors, or flavors. Clinical doses, NSF certs, and price-per-serving breakdowns for 2026."
+image: "/images/articles/best-natural-pre-workout-2026/hero.png"
 date: 2026-04-17
 updated: 2026-04-17
 category: pre-workout
@@ -56,6 +57,8 @@ I tested six natural pre-workouts over roughly four months, tracking workout per
 
 ## Quick Verdict
 
+![Quick Verdict](/images/articles/best-natural-pre-workout-2026/section-1.png)
+
 | Category | Winner | Why |
 |---|---|---|
 | **Overall Best** | Legion Pulse | 350mg caffeine, 8g citrulline malate, 54-study formula at $1.71/serving (sub) |
@@ -67,6 +70,8 @@ I tested six natural pre-workouts over roughly four months, tracking workout per
 ---
 
 ## What the Science Actually Says
+
+![What the Science Actually Says](/images/articles/best-natural-pre-workout-2026/section-2.png)
 
 The core question with any pre-workout is whether the active ingredients are dosed at levels that match what the research actually used. A product with 12 "clean" ingredients at half-doses is worse than one with 6 ingredients at clinical doses.
 
