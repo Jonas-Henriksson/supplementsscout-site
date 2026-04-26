@@ -1,6 +1,7 @@
 ---
 title: "Best Protein Shakes for Weight Loss 2026: Satiety and Calorie Math"
 description: "Compare 5 protein shakes for weight loss in 2026 — NSF testing, satiety data, and price-per-serving breakdowns across whey and plant proteins."
+image: "/images/articles/best-protein-shakes-weight-loss-2026/hero.png"
 date: 2026-04-23
 updated: 2026-04-23
 category: protein
@@ -62,6 +63,8 @@ I've been tracking protein intake and calorie distribution against body composit
 
 ## What the Science Actually Says About Protein and Weight Loss
 
+![What the Science Actually Says About Protein and Weight Loss](/images/articles/best-protein-shakes-weight-loss-2026/section-1.png)
+
 Protein's role in weight loss isn't controversial — the mechanisms are well-established and consistently replicated.
 
 The thermic effect of food (TEF) for protein runs **20-30%** compared to 5-10% for carbohydrates and 0-3% for fat [Study: Westerterp KR, 2004]. That means roughly a quarter of the calories in protein get burned during digestion. For a 130-calorie scoop of whey, you're netting closer to 100-105 effective calories after the thermic cost.
@@ -83,6 +86,8 @@ Plant proteins (pea, brown rice, soy) have lower leucine content but can match w
 ---
 
 ## How I Tested
+
+![How I Tested](/images/articles/best-protein-shakes-weight-loss-2026/section-2.png)
 
 I used each shake as my primary post-workout protein for 3-4 weeks per product, logging daily hunger on a 1-10 scale at 60-minute and 120-minute intervals post-shake, tracking total calorie adherence through Cronometer, and measuring weekly fasted morning body weight. I maintained a consistent 400-500 kcal daily deficit throughout and kept training volume constant. Each product was tested in 10oz cold water, 12oz water, and with oat milk to assess mixability across real-world conditions.
 
