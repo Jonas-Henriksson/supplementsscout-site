@@ -1,6 +1,7 @@
 ---
 title: "Oxidized Fish Oil: How to Test Your Supplements and What to Avoid (2026)"
 description: "Discover which fish oil brands pass oxidation testing — TOTOX values, IFOS certification, and 5 products ranked by real third-party lab data. Updated 2026."
+image: "/images/articles/oxidized-fish-oil-how-to-test-and-what-to-avoid/hero.png"
 date: 2026-04-23
 updated: 2026-04-23
 category: omega-3
@@ -46,6 +47,8 @@ A 2015 study in the Journal of Nutritional Science tested 171 North American fis
 
 ## Quick Verdict
 
+![Quick Verdict](/images/articles/oxidized-fish-oil-how-to-test-and-what-to-avoid/section-1.png)
+
 | Category | Winner | Why |
 |---|---|---|
 | **Top Pick** | Nordic Naturals Ultimate Omega | IFOS 5-Star certified, TG form, 1280mg EPA+DHA at $0.58/serving |
@@ -57,6 +60,8 @@ A 2015 study in the Journal of Nutritional Science tested 171 North American fis
 ---
 
 ## What the Science Actually Says
+
+![What the Science Actually Says](/images/articles/oxidized-fish-oil-how-to-test-and-what-to-avoid/section-2.png)
 
 Omega-3 fatty acids oxidize through a two-stage process. **Primary oxidation produces peroxides** — measured as Peroxide Value (PV), expressed in milliequivalents per kilogram (meq/kg). **Secondary oxidation breaks those peroxides into aldehydes and ketones** — captured by the p-Anisidine Value (p-AV). The combined metric, **TOTOX = (2 × PV) + p-AV**, gives the most complete picture of total oxidative damage.
 
