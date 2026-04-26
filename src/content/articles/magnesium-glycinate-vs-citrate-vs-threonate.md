@@ -1,6 +1,7 @@
 ---
 title: "Magnesium Glycinate vs Citrate vs Threonate: Which Form Is Best for You? (2026)"
 description: "Compare magnesium glycinate, citrate, and threonate by dose, bioavailability, and price — find the right form for sleep, cognition, or daily repletion."
+image: "/images/articles/magnesium-glycinate-vs-citrate-vs-threonate/hero.png"
 date: 2026-04-23
 updated: 2026-04-23
 category: vitamins-minerals
@@ -50,6 +51,8 @@ I spent three months cycling these forms back-to-back — four weeks each — tr
 
 ## Quick Verdict
 
+![Quick Verdict](/images/articles/magnesium-glycinate-vs-citrate-vs-threonate/section-1.png)
+
 | Scenario | Winner | Why |
 |----------|--------|-----|
 | Best overall / sleep | Doctor's Best Magnesium Glycinate | 200mg elemental Mg, cGMP + Albion TRAACS, $0.17/serving |
@@ -66,6 +69,8 @@ I spent three months cycling these forms back-to-back — four weeks each — tr
 ---
 
 ## What the Science Actually Says
+
+![What the Science Actually Says](/images/articles/magnesium-glycinate-vs-citrate-vs-threonate/section-2.png)
 
 Magnesium is a cofactor in over 300 enzymatic reactions, including ATP synthesis, protein synthesis, DNA repair, and neuromuscular signaling. [Study: de Baaij et al., 2015, Physiological Reviews] The U.S. RDA sits at 400–420mg/day for adult men and 310–320mg/day for women, but population surveys consistently show approximately **48% of Americans fall below these targets from diet alone**. [Study: Rosanoff et al., 2012, Nutrition Reviews]
 
