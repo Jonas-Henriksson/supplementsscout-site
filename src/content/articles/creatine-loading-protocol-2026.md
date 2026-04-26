@@ -1,6 +1,7 @@
 ---
 title: "Creatine Loading Protocol: Is It Necessary? 2026 Evidence Review"
 description: "Compare creatine loading vs. daily dosing using peer-reviewed evidence. 5 top products ranked by dose accuracy, testing status, and price-per-serving."
+image: "/images/articles/creatine-loading-protocol-2026/hero.png"
 date: 2026-04-23
 updated: 2026-04-23
 category: creatine
@@ -58,6 +59,8 @@ After reviewing the peer-reviewed literature and running a personal eight-week p
 
 ## What the Science Actually Says
 
+![What the Science Actually Says](/images/articles/creatine-loading-protocol-2026/section-1.png)
+
 ### The Physiology of Creatine Saturation
 
 Creatine works by increasing phosphocreatine (PCr) stores in skeletal muscle, which accelerates ATP resynthesis during maximal efforts lasting roughly 1–10 seconds. Resting muscle creatine stores run around 120–130 mmol/kg dry mass in most meat-eating adults, but the ceiling for supplementation is approximately 150–160 mmol/kg. [Study: Harris et al., 1992]
@@ -89,6 +92,8 @@ Creatine HCl dissolves better in water — a genuine practical advantage — but
 ---
 
 ## How I Tested
+
+![How I Tested](/images/articles/creatine-loading-protocol-2026/section-2.png)
 
 I ran a personal eight-week protocol across five creatine products, rotating every 1–2 weeks with brief washout periods. I tracked one-rep max on squat and deadlift, 30-meter sprint times on a track, and self-reported GI tolerance on a 1–5 scale after each dose. My baseline: 34-year-old male, 82kg, training five days per week. No bloodwork this cycle — creatine at standard doses doesn't meaningfully affect standard metabolic or lipid panels in healthy adults, so chasing labs would have been unnecessary overhead.
 
