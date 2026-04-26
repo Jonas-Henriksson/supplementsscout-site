@@ -1,6 +1,7 @@
 ---
 title: "Best Pre-Workout for Focus 2026: Nootropic-Enhanced Formulas That Actually Work"
 description: "7 nootropic pre-workouts ranked by Alpha-GPC dose, caffeine-theanine ratio, and third-party testing. Find the best pre-workout for focus in 2026."
+image: "/images/articles/best-pre-workout-for-focus-2026/hero.png"
 date: 2026-04-23
 updated: 2026-04-23
 category: pre-workout
@@ -47,6 +48,8 @@ After testing seven formulas across 12 weeks, cross-referencing each ingredient 
 
 ## Quick Verdict
 
+![Quick Verdict](/images/articles/best-pre-workout-for-focus-2026/section-1.png)
+
 | Category | Winner | Why |
 |---|---|---|
 | **Overall Best** | Transparent Labs BULK Black | 305mg caffeine, 300mg Alpha-GPC, Informed Choice certified. $1.56/serving direct. |
@@ -58,6 +61,8 @@ After testing seven formulas across 12 weeks, cross-referencing each ingredient 
 ---
 
 ## What the Science Actually Says
+
+![What the Science Actually Says](/images/articles/best-pre-workout-for-focus-2026/section-2.png)
 
 Calling a pre-workout a "nootropic" is marketing language unless the formula contains ingredients with mechanistic evidence for cognitive enhancement. Here's what the research supports — and what it doesn't.
 
