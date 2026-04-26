@@ -1,6 +1,7 @@
 ---
 title: "Pre-Workout Tolerance: How to Cycle Off and Reset Caffeine Sensitivity (2026)"
 description: "Reset caffeine tolerance with a proven protocol. Best stim-free pre-workouts for cycling, withdrawal timeline, and how to reintroduce caffeine sensitivity."
+image: "/images/articles/pre-workout-tolerance-caffeine-cycle-reset-2026/hero.png"
 date: 2026-04-26
 updated: 2026-04-26
 category: supplement-guides
@@ -57,6 +58,8 @@ This guide covers the biology behind caffeine tolerance, two evidence-backed res
 
 ## What the Science Actually Says About Caffeine Tolerance
 
+![What the Science Actually Says About Caffeine Tolerance](/images/articles/pre-workout-tolerance-caffeine-cycle-reset-2026/section-1.png)
+
 Caffeine works by blocking adenosine receptors — specifically the A1 and A2A subtypes in the brain. Adenosine is a neuromodulator that accumulates during waking hours and promotes sleepiness; by blocking its receptors, caffeine reduces perceived exertion and maintains alertness during exercise. [Study: Fredholm et al., 1999]
 
 The problem: your body responds to chronic receptor blockade by upregulating adenosine receptors — growing more of them. [Study: Boulenger et al., 1983] Within 7–12 days of consistent caffeine consumption, receptor density increases enough that your baseline dose produces significantly less effect. You are not becoming "immune" to caffeine — you are running it against a larger target surface.
@@ -92,6 +95,8 @@ DMAA and DMHA — found in some aggressive "hardcore" pre-workouts — tolerate 
 ---
 
 ## How I Tested
+
+![How I Tested](/images/articles/pre-workout-tolerance-caffeine-cycle-reset-2026/section-2.png)
 
 I ran a 6-week caffeine cycling protocol after hitting the wall on a 400mg pre-workout plus daily coffee habit — roughly 600mg total caffeine per day sustained for four months. I did a hard cut for two weeks, then reintroduced caffeine at 100mg via black coffee in week three, and resumed a normal pre-workout at week five. During the stim-free period, I trained with Transparent Labs Stim-Free and Gorilla Mode Nitric on alternating weeks, tracking subjective pump quality, endurance (rep count on working sets at 80% 1RM), and focus on a 1–10 journal scale daily. Withdrawal symptoms — headache severity, afternoon fatigue, irritability — were logged for the first 14 days. The first four days were rough: 6/10 headache severity and noticeable cognitive drag in the afternoon. By day 10, both had fully resolved. When I reintroduced 100mg caffeine at week three, the response was noticeably stronger than pre-reset — a dose that had been doing nothing felt like a moderate stimulant again.
 
