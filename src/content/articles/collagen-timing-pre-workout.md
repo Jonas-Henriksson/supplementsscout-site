@@ -1,6 +1,7 @@
 ---
 title: "Collagen Timing: Should You Take It Before Workouts? (2026 Guide)"
 description: "Take collagen 45–60 min before exercise to amplify connective tissue synthesis. Best pre-workout collagen products, doses, and vitamin C protocol reviewed."
+image: "/images/articles/collagen-timing-pre-workout/hero.png"
 date: 2026-04-23
 updated: 2026-04-23
 category: collagen
@@ -42,6 +43,8 @@ This guide covers the evidence on pre-workout collagen timing, reviews the produ
 
 ## Quick Verdict
 
+![Quick Verdict](/images/articles/collagen-timing-pre-workout/section-1.png)
+
 > **Top Pick: Gnarly Collagen Pro** — 15g hydrolyzed collagen + 100% DV vitamin C built in, **NSF Certified for Sport**. The only product reviewed that ships ready for the evidence-based protocol without separate supplementation. **$1.67/serving**
 >
 > **Runner-Up: Vital Proteins Collagen Peptides** — 20g per serving, grass-fed bovine, widely available at Target and Costco, but **requires separate vitamin C** to complete the protocol. **$1.68/serving**
@@ -51,6 +54,8 @@ This guide covers the evidence on pre-workout collagen timing, reviews the produ
 ---
 
 ## What the Science Actually Says
+
+![What the Science Actually Says](/images/articles/collagen-timing-pre-workout/section-2.png)
 
 Collagen makes up roughly 70–80% of tendon dry weight and approximately 60% of ligament dry weight. Unlike muscle protein synthesis — which responds robustly to resistance training within 24–48 hours — connective tissue collagen turnover is slower and significantly more dependent on nutritional timing and specific co-factors.
 
