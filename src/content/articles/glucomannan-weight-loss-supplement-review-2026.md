@@ -1,6 +1,7 @@
 ---
 title: "Glucomannan for Weight Loss: The Fiber Supplement That Works (2026 Review)"
 description: "Compare 5 glucomannan supplements with real dosing data, price-per-serving, and the science behind EFSA's only approved fiber weight-loss claim."
+image: "/images/articles/glucomannan-weight-loss-supplement-review-2026/hero.png"
 date: 2026-04-27
 updated: 2026-04-27
 category: weight-loss
@@ -50,6 +51,8 @@ That said, this is not magic fiber. The clinical literature is more complicated 
 
 ## Quick Verdict
 
+![Quick Verdict](/images/articles/glucomannan-weight-loss-supplement-review-2026/section-1.png)
+
 > **Overall Winner:** Best Naturals Konjac Root Glucomannan — 2,000mg per 3-capsule serving, $0.18/serving, vegetarian capsules, available at shopbestnaturals.com and Amazon.
 >
 > **Runner-Up:** Nutricost Glucomannan — 1,800mg per 3-capsule serving, $0.28/serving, with a 500g powder option at $26.95 for flexible high-dose use.
@@ -59,6 +62,8 @@ That said, this is not magic fiber. The clinical literature is more complicated 
 ---
 
 ## What the Science Actually Says
+
+![What the Science Actually Says](/images/articles/glucomannan-weight-loss-supplement-review-2026/section-2.png)
 
 Glucomannan is the primary polysaccharide in konjac root (*Amorphophallus konjac*), and it has an unusually high molecular weight and viscosity compared to other soluble fibers. When it contacts water, it can absorb up to 50 times its own weight in fluid, forming a thick gel in the GI tract.
 
