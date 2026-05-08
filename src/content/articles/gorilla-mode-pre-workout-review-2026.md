@@ -1,6 +1,7 @@
 ---
 title: "Gorilla Mode Pre-Workout Review 2026: High-Stim or Hype?"
 description: "Gorilla Mode Pre-Workout reviewed: 400mg caffeine, 10g citrulline, 5g creatine monohydrate. Full 2026 formula breakdown, third-party testing, and honest verdict."
+image: "/images/articles/gorilla-mode-pre-workout-review-2026/hero.png"
 date: 2026-05-08
 updated: 2026-05-08
 category: pre-workout
@@ -62,6 +63,8 @@ I've been using Gorilla Mode for 10 weeks across three training blocks. I'll giv
 
 ## What the Science Actually Says
 
+![What the Science Actually Says](/images/articles/gorilla-mode-pre-workout-review-2026/section-1.png)
+
 ### L-Citrulline: The Foundation of the Pump
 
 L-Citrulline is the most evidence-backed nitric oxide precursor available. It converts to arginine in the kidneys, raising plasma arginine more effectively than direct arginine supplementation — oral arginine is largely degraded by intestinal arginase before it reaches circulation [Study: Pérez-Guisado & Jakeman, 2010]. The resulting increase in nitric oxide synthesis drives vasodilation, which is the physiological mechanism behind the pump effect.
@@ -103,6 +106,8 @@ L-Tyrosine is a precursor to dopamine and norepinephrine. There is evidence it r
 ---
 
 ## How I Tested
+
+![How I Tested](/images/articles/gorilla-mode-pre-workout-review-2026/section-2.png)
 
 I used Gorilla Mode for 10 weeks across three training blocks: weeks 1–3 at 1 scoop (200mg caffeine) to assess baseline tolerance, weeks 4–6 at 1.5 scoops (approximate, via measure), and weeks 7–10 at full 2 scoops before a deliberate 2-week cycle-off. I tracked resting heart rate each morning, session RPE on a 1–10 scale, subjective pump quality (1–10), and sleep quality via an Oura Ring. Gorilla Mode Nitric was used on deload weeks when training intensity dropped. No bloodwork was performed during this evaluation period. Prices cited reflect what I paid or observed in early 2026 — I recommend verifying current pricing at gorillamind.com before purchasing.
 
